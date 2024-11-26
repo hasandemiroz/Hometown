@@ -14,11 +14,11 @@ body {
     
 }
 
-#inline {
+.inline {
     margin-top: 10px;
 }
 
-#antalya {
+#antalya-header {
     width: 1000px;
     height: 400px;
     background-image: url("images/antalya.jpg");
@@ -36,7 +36,7 @@ body {
     width: 1000px;
 }
 
-#activities {
+.activities {
     width: 200px;
     height: 200px;
     border-radius: 50%;
@@ -45,11 +45,11 @@ body {
     margin-right: 80px;
 }
 
-#header {
+.header {
     width: 300px;
 }
 
-#information {
+.information {
     width: 300px;
 }
 
